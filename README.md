@@ -31,3 +31,6 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem local
 
 ![logo do kotlin](img/kotlin.png)
+
+#### Imagem externa
+![logo do typescript](https://sdtimes.com/wp-content/uploads/2019/08/typescriptfeature.png)
