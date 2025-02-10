@@ -39,3 +39,5 @@ __Melhoria 1__, _melhoria 2_
 [Google](https://google.com.br)
 
 [https://www.fender.com](https://www.fender.com)
+
+Contribuidor principal: https://www.github.com/juniorn06
