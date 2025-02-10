@@ -41,3 +41,6 @@ __Melhoria 1__, _melhoria 2_
 [https://www.fender.com](https://www.fender.com)
 
 Contribuidor principal: https://www.github.com/juniorn06
+
+[![logo do typescript](https://sdtimes.com/wp-content/uploads/2019/08/typescriptfeature.png)](https://www.github.com/juniorn06
+)
