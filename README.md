@@ -38,4 +38,4 @@ __Melhoria 1__, _melhoria 2_
 ## Links interessantes
 [Google](https://google.com.br)
 
-[https://www.fende.com](https://www.fende.com)
+[https://www.fender.com](https://www.fender.com)
