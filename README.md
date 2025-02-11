@@ -44,3 +44,11 @@ Contribuidor principal: https://www.github.com/juniorn06
 
 [![logo do typescript](https://sdtimes.com/wp-content/uploads/2019/08/typescriptfeature.png)](https://www.github.com/juniorn06
 )
+
+## Código da função soma
+
+```javascript 
+function soma(a, b) {
+    return a + b;
+}
+```
